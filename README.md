@@ -8,7 +8,11 @@
 
 - [python3, pip3](https://python.org)
 - [selenium](https://selenium-python.readthedocs.io/installation.html)
-- [geckodriver](https://github.com/mozilla/geckodriver/releases)
+- [geckodriver](https://github.com/mozilla/geckodriver/releases) 
+   <details>
+      <summary>Stuck on installation?</summary>
+      <p> Check the <a href="//github.com/kerolloz/alfarabi-questionnaire-filler/wiki/installing-geckodriver" >wiki!</a> </p>
+    </details> 
 
 ## :arrow_down: Installation
 
