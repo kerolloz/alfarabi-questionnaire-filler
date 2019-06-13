@@ -38,7 +38,7 @@ python3 questionnaire_fillup.py
 
 ### Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4uI3n_HGbCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Demonistration Video](https://youtu.be/4uI3n_HGbCc)
 
 ## License
 
