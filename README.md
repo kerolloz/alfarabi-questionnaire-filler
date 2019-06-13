@@ -1,5 +1,4 @@
 
-<h1 align="center"> Alfarabi Questionnaire Auto-Filler :robot:</h1>
 <p align="center">
     <img src="http://www.litchfieldfiredepartment.com/wp-content/uploads/2013/11/Online-Poker-Robot.jpeg">
 </p>
