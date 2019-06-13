@@ -3,7 +3,7 @@
 <p align="center">
     <img src="http://www.litchfieldfiredepartment.com/wp-content/uploads/2013/11/Online-Poker-Robot.jpeg">
 </p>
-<p align="center">If you are lazy enough (just like me), This script will fill up the questionnaires for you</p>
+<p align="center">If you are lazy enough (just like me), This script will fill up the questionnaires for you :rocket:</p>
 
 
 
