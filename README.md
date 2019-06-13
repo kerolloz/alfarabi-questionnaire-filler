@@ -38,7 +38,7 @@ python3 questionnaire_fillup.py
 
 ### Demo
 
-![Demonistration Video](https://youtu.be/4uI3n_HGbCc)
+[![Demonistration Video](https://img.youtube.com/vi/4uI3n_HGbCc/hqdefault.jpg)](https://youtu.be/4uI3n_HGbCc)
 
 ## License
 
