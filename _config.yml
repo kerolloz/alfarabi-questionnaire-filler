@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 plugins:
   - jemoji
 title:  Alfarabi Questionnaire Auto-Filler 🤖
+show_downloads: true
