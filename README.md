@@ -11,7 +11,7 @@
  
 - [python3](https://python.org)
 - pip3
-- selenium 
+- [selenium](https://selenium-python.readthedocs.io/installation.html) 
 - [geckodriver](https://github.com/mozilla/geckodriver/releases)
 
 ## :arrow_down: Installation 
