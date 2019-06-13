@@ -9,8 +9,7 @@
 
 ## :package: Requirements 
  
-- [python3](https://python.org)
-- pip3
+- [python3, pip3](https://python.org)
 - [selenium](https://selenium-python.readthedocs.io/installation.html) 
 - [geckodriver](https://github.com/mozilla/geckodriver/releases)
 
