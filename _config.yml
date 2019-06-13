@@ -1,6 +1,5 @@
-remote_theme: YoussefRaafatNasry/portfolYOU
+theme: jekyll-theme-cayman
 plugins:
   - jemoji
-title: Alfarabi Questionnaire Auto-Filler
-
-theme: jekyll-theme-cayman
+title: 
+description:
