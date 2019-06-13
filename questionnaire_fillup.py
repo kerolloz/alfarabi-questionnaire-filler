@@ -1,6 +1,10 @@
 from selenium import webdriver
 import os
 
+def save_and_submit():
+    driver.find_element_by_xpath("//button[@class='btn btn-icon btn-primary glyphicons circle_ok center']").click()
+    # save and submit
+
 USERNAME = os.environ['STUDENT_USERNAME']
 PASSWORD = os.environ['STUDENT_PASSWORD']
 
@@ -30,8 +34,19 @@ for subject in subjects:
     strengths, weaknesses = driver.find_elements_by_xpath("//input[@type='text']")
     strengths.send_keys("...")
     weaknesses.send_keys("...")
+    
+    save_and_submit()
 
-    driver.find_element_by_xpath("//button[@class='btn btn-icon btn-primary glyphicons circle_ok center']").click()
-    # save and submit
+general_questionnaires = driver.find_elements_by_xpath("//li[@class='glyphicons']")
+
+for g_q in general_questionnaires:
+    g_q.click()
+    good_ratings = driver.find_elements_by_xpath("//input[@type='radio'][@value='2']")
+
+    for rating in good_ratings:
+        rating.click()
+
+    save_and_submit()
+
 
 driver.close()
