@@ -1,4 +1,4 @@
-theme: jekyll-theme-primer
+theme: jekyll-theme-merlot
 plugins:
   - jemoji
 title: Alfarabi Questionnaire Auto-Filler
