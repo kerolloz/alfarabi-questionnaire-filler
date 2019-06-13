@@ -4,17 +4,14 @@
 </p>
 <p align="center">If you are lazy enough (just like me), This script will fill up the questionnaires for you :rocket:</p>
 
+## :package: Requirements
 
-
-
-## :package: Requirements 
- 
 - [python3](https://python.org)
 - pip3
-- selenium 
+- selenium
 - [geckodriver](https://github.com/mozilla/geckodriver/releases)
 
-## :arrow_down: Installation 
+## :arrow_down: Installation
 
 ```shell
 pip3 install selenium
@@ -29,10 +26,10 @@ export STUDENT_USERNAME="your social security number"
 export STUDENT_PASSWORD="your password here"
 ```
 
-### :running: Running the script 
+### :running: Running the script
 
 ```shell
-python3 questionnaire_fillup.py 
+python3 questionnaire_fillup.py
 ```
 
 ### :tv: Demo
@@ -47,6 +44,6 @@ python3 questionnaire_fillup.py
 
 <p align="center">
   <blockquote>
-      <p align="center" text-aligh="center">MADE WITH :heart: @ SCU</p>
+      <p align="center">MADE WITH :heart: @ SCU</p>
   </blockquote>
 </p>
