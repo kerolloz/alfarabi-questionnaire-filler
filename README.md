@@ -1,6 +1,6 @@
 <p align="right">
     <h1 align="left">Alfarabi Questionnaire Auto-Filler </h1>
-    <img src="https://alfarabi.mans.edu.eg/website/images/logo.png">
+    <img src="http://www.litchfieldfiredepartment.com/wp-content/uploads/2013/11/Online-Poker-Robot.jpeg">
 </p>
 
 > If you are lazy enough (just like me), This script will fill up the questionnaires for you 
