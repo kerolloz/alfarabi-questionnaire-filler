@@ -1,9 +1,9 @@
 
+<h1 align="center"> Alfarabi Questionnaire Auto-Filler</h1>
 <p align="center">
-    <h1 align="center"> Alfarabi Questionnaire Auto-Filler</h1>
     <img src="http://www.litchfieldfiredepartment.com/wp-content/uploads/2013/11/Online-Poker-Robot.jpeg">
-    <p align="center">If you are lazy enough (just like me), This script will fill up the questionnaires for you</p>
 </p>
+<p align="center">If you are lazy enough (just like me), This script will fill up the questionnaires for you</p>
 
 
 
