@@ -2,4 +2,3 @@ theme: jekyll-theme-primer
 plugins:
   - jemoji
 title: Alfarabi Questionnaire Auto-Filler
-description: A simple python :snake: script to fill up your questionnaires for you :sunglasses:
