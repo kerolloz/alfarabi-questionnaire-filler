@@ -23,14 +23,14 @@ pip3 install selenium
 
 ## Usage
 
-### environment variable setting
+### Environment variable setting
 
 ```shell
 export STUDENT_USERNAME="your social security number"
 export STUDENT_PASSWORD="your password here"
 ```
 
-### running the script 
+### Running the script 
 
 ```shell
 python3 questionnaire_fillup.py 
@@ -38,7 +38,7 @@ python3 questionnaire_fillup.py
 
 ### Demo
 
-[![Demonistration Video](https://img.youtube.com/vi/4uI3n_HGbCc/hqdefault.jpg)](https://youtu.be/4uI3n_HGbCc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4uI3n_HGbCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## License
 
