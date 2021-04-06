@@ -7,6 +7,7 @@
 
 - [python3, pip3](https://python.org)
 - [selenium](https://selenium-python.readthedocs.io/installation.html)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [geckodriver](https://github.com/mozilla/geckodriver/releases) 
    <details>
       <summary>Stuck on installation?</summary>
