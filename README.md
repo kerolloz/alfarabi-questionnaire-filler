@@ -1,7 +1,8 @@
 <p align="center">
-    <img src="http://www.litchfieldfiredepartment.com/wp-content/uploads/2013/11/Online-Poker-Robot.jpeg">
+    <img src="https://user-images.githubusercontent.com/36763164/232555151-c548e7c4-1778-4533-944a-257dc192d5fa.png">
+
 </p>
-<p align="center">If you are lazy enough (just like me), This script will fill up the questionnaires for you :rocket:</p>
+<p align="center">If you are lazy enough (just like me). This script will fill up the questionnaires for you :rocket:</p>
 
 ## :package: Requirements
 
